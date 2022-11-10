@@ -1,0 +1,22 @@
+{
+  "name": "fly-line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanghongrui/mapbox-fly-line.git"
+  },
+  "keywords": [
+    "mapboxgl"
+  ],
+  "author": "dahong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanghongrui/mapbox-fly-line/issues"
+  },
+  "homepage": "https://github.com/wanghongrui/mapbox-fly-line#readme"
+}
